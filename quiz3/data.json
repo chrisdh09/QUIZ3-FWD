@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "dc3d",
+      "name": "cdelgado",
+      "email": "cdelgado@fwdcostarica.com"
+    },
+    {
+      "id": "1ab5",
+      "name": "dsd",
+      "email": "aas@hotmail.com"
+    },
+    {
+      "id": "dd4a",
+      "name": "cdelgado",
+      "email": "das@gas.com"
+    }
+  ],
+  "products": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
